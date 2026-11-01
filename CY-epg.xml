@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom EPG Generator">
+  <channel id="RIKSat.cy@SD">
+    <display-name>RIK Sat</display-name>
+  </channel>
+  <channel id="ANT1Cyprus.cy@SD">
+    <display-name>ANT1 Cyprus</display-name>
+  </channel>
+  <channel id="ERTCosmosCyprus.cy@HD">
+    <display-name>ERT Cosmos Cyprus</display-name>
+  </channel>
+  <channel id="OmegaChannel.cy@SD">
+    <display-name>Omega Channel</display-name>
+  </channel>
+  <channel id="SigmaTV.cy@SD">
+    <display-name>Sigma TV</display-name>
+  </channel>
+  <programme start="20261101000000 +0000" stop="20261101060000 +0000" channel="RIKSat.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101090000 +0000" channel="RIKSat.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261101090000 +0000" stop="20261101120000 +0000" channel="RIKSat.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261101120000 +0000" stop="20261101130000 +0000" channel="RIKSat.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261101130000 +0000" stop="20261101170000 +0000" channel="RIKSat.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="RIKSat.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101200000 +0000" channel="RIKSat.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101230000 +0000" channel="RIKSat.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="RIKSat.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101060000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101090000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261101090000 +0000" stop="20261101120000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261101120000 +0000" stop="20261101130000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261101130000 +0000" stop="20261101170000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101200000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101230000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101060000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101090000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261101090000 +0000" stop="20261101120000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261101120000 +0000" stop="20261101130000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261101130000 +0000" stop="20261101170000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101200000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101230000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101060000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101090000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261101090000 +0000" stop="20261101120000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261101120000 +0000" stop="20261101130000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261101130000 +0000" stop="20261101170000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101200000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101230000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101060000 +0000" channel="SigmaTV.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101090000 +0000" channel="SigmaTV.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261101090000 +0000" stop="20261101120000 +0000" channel="SigmaTV.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261101120000 +0000" stop="20261101130000 +0000" channel="SigmaTV.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261101130000 +0000" stop="20261101170000 +0000" channel="SigmaTV.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="SigmaTV.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101200000 +0000" channel="SigmaTV.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101230000 +0000" channel="SigmaTV.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="SigmaTV.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261102000000 +0000" stop="20261102060000 +0000" channel="RIKSat.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102090000 +0000" channel="RIKSat.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261102090000 +0000" stop="20261102120000 +0000" channel="RIKSat.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="RIKSat.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261102130000 +0000" stop="20261102170000 +0000" channel="RIKSat.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102190000 +0000" channel="RIKSat.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="RIKSat.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261102200000 +0000" stop="20261102230000 +0000" channel="RIKSat.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103000000 +0000" channel="RIKSat.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261102000000 +0000" stop="20261102060000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102090000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261102090000 +0000" stop="20261102120000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261102130000 +0000" stop="20261102170000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102190000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261102200000 +0000" stop="20261102230000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103000000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261102000000 +0000" stop="20261102060000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102090000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261102090000 +0000" stop="20261102120000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261102130000 +0000" stop="20261102170000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102190000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261102200000 +0000" stop="20261102230000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103000000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261102000000 +0000" stop="20261102060000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102090000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261102090000 +0000" stop="20261102120000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261102130000 +0000" stop="20261102170000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102190000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261102200000 +0000" stop="20261102230000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103000000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261102000000 +0000" stop="20261102060000 +0000" channel="SigmaTV.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102090000 +0000" channel="SigmaTV.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261102090000 +0000" stop="20261102120000 +0000" channel="SigmaTV.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="SigmaTV.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261102130000 +0000" stop="20261102170000 +0000" channel="SigmaTV.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102190000 +0000" channel="SigmaTV.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="SigmaTV.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261102200000 +0000" stop="20261102230000 +0000" channel="SigmaTV.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103000000 +0000" channel="SigmaTV.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261103000000 +0000" stop="20261103060000 +0000" channel="RIKSat.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261103060000 +0000" stop="20261103090000 +0000" channel="RIKSat.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261103090000 +0000" stop="20261103120000 +0000" channel="RIKSat.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261103120000 +0000" stop="20261103130000 +0000" channel="RIKSat.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261103130000 +0000" stop="20261103170000 +0000" channel="RIKSat.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103190000 +0000" channel="RIKSat.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261103190000 +0000" stop="20261103200000 +0000" channel="RIKSat.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261103200000 +0000" stop="20261103230000 +0000" channel="RIKSat.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104000000 +0000" channel="RIKSat.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261103000000 +0000" stop="20261103060000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261103060000 +0000" stop="20261103090000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261103090000 +0000" stop="20261103120000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261103120000 +0000" stop="20261103130000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261103130000 +0000" stop="20261103170000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103190000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261103190000 +0000" stop="20261103200000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261103200000 +0000" stop="20261103230000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104000000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261103000000 +0000" stop="20261103060000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261103060000 +0000" stop="20261103090000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261103090000 +0000" stop="20261103120000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261103120000 +0000" stop="20261103130000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261103130000 +0000" stop="20261103170000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103190000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261103190000 +0000" stop="20261103200000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261103200000 +0000" stop="20261103230000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104000000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261103000000 +0000" stop="20261103060000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261103060000 +0000" stop="20261103090000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261103090000 +0000" stop="20261103120000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261103120000 +0000" stop="20261103130000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261103130000 +0000" stop="20261103170000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103190000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261103190000 +0000" stop="20261103200000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261103200000 +0000" stop="20261103230000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104000000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261103000000 +0000" stop="20261103060000 +0000" channel="SigmaTV.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261103060000 +0000" stop="20261103090000 +0000" channel="SigmaTV.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261103090000 +0000" stop="20261103120000 +0000" channel="SigmaTV.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261103120000 +0000" stop="20261103130000 +0000" channel="SigmaTV.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261103130000 +0000" stop="20261103170000 +0000" channel="SigmaTV.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103190000 +0000" channel="SigmaTV.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261103190000 +0000" stop="20261103200000 +0000" channel="SigmaTV.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261103200000 +0000" stop="20261103230000 +0000" channel="SigmaTV.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104000000 +0000" channel="SigmaTV.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261104000000 +0000" stop="20261104060000 +0000" channel="RIKSat.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104090000 +0000" channel="RIKSat.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104120000 +0000" channel="RIKSat.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="RIKSat.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104170000 +0000" channel="RIKSat.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104190000 +0000" channel="RIKSat.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104200000 +0000" channel="RIKSat.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104230000 +0000" channel="RIKSat.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105000000 +0000" channel="RIKSat.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261104000000 +0000" stop="20261104060000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104090000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104120000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104170000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104190000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104200000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104230000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105000000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261104000000 +0000" stop="20261104060000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104090000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104120000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104170000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104190000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104200000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104230000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105000000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261104000000 +0000" stop="20261104060000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104090000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104120000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104170000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104190000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104200000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104230000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105000000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261104000000 +0000" stop="20261104060000 +0000" channel="SigmaTV.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104090000 +0000" channel="SigmaTV.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104120000 +0000" channel="SigmaTV.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="SigmaTV.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104170000 +0000" channel="SigmaTV.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104190000 +0000" channel="SigmaTV.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104200000 +0000" channel="SigmaTV.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104230000 +0000" channel="SigmaTV.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105000000 +0000" channel="SigmaTV.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105060000 +0000" channel="RIKSat.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261105060000 +0000" stop="20261105090000 +0000" channel="RIKSat.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261105090000 +0000" stop="20261105120000 +0000" channel="RIKSat.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261105120000 +0000" stop="20261105130000 +0000" channel="RIKSat.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105170000 +0000" channel="RIKSat.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105190000 +0000" channel="RIKSat.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261105190000 +0000" stop="20261105200000 +0000" channel="RIKSat.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261105200000 +0000" stop="20261105230000 +0000" channel="RIKSat.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261105230000 +0000" stop="20261106000000 +0000" channel="RIKSat.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105060000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261105060000 +0000" stop="20261105090000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261105090000 +0000" stop="20261105120000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261105120000 +0000" stop="20261105130000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105170000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105190000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261105190000 +0000" stop="20261105200000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261105200000 +0000" stop="20261105230000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261105230000 +0000" stop="20261106000000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105060000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261105060000 +0000" stop="20261105090000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261105090000 +0000" stop="20261105120000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261105120000 +0000" stop="20261105130000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105170000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105190000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261105190000 +0000" stop="20261105200000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261105200000 +0000" stop="20261105230000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261105230000 +0000" stop="20261106000000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105060000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261105060000 +0000" stop="20261105090000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261105090000 +0000" stop="20261105120000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261105120000 +0000" stop="20261105130000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105170000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105190000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261105190000 +0000" stop="20261105200000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261105200000 +0000" stop="20261105230000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261105230000 +0000" stop="20261106000000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105060000 +0000" channel="SigmaTV.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261105060000 +0000" stop="20261105090000 +0000" channel="SigmaTV.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261105090000 +0000" stop="20261105120000 +0000" channel="SigmaTV.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261105120000 +0000" stop="20261105130000 +0000" channel="SigmaTV.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105170000 +0000" channel="SigmaTV.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105190000 +0000" channel="SigmaTV.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261105190000 +0000" stop="20261105200000 +0000" channel="SigmaTV.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261105200000 +0000" stop="20261105230000 +0000" channel="SigmaTV.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261105230000 +0000" stop="20261106000000 +0000" channel="SigmaTV.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="RIKSat.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261106060000 +0000" stop="20261106090000 +0000" channel="RIKSat.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261106090000 +0000" stop="20261106120000 +0000" channel="RIKSat.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="RIKSat.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261106130000 +0000" stop="20261106170000 +0000" channel="RIKSat.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261106170000 +0000" stop="20261106190000 +0000" channel="RIKSat.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="RIKSat.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261106200000 +0000" stop="20261106230000 +0000" channel="RIKSat.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261106230000 +0000" stop="20261107000000 +0000" channel="RIKSat.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261106060000 +0000" stop="20261106090000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261106090000 +0000" stop="20261106120000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261106130000 +0000" stop="20261106170000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261106170000 +0000" stop="20261106190000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261106200000 +0000" stop="20261106230000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261106230000 +0000" stop="20261107000000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261106060000 +0000" stop="20261106090000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261106090000 +0000" stop="20261106120000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261106130000 +0000" stop="20261106170000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261106170000 +0000" stop="20261106190000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261106200000 +0000" stop="20261106230000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261106230000 +0000" stop="20261107000000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261106060000 +0000" stop="20261106090000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261106090000 +0000" stop="20261106120000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261106130000 +0000" stop="20261106170000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261106170000 +0000" stop="20261106190000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261106200000 +0000" stop="20261106230000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261106230000 +0000" stop="20261107000000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261106000000 +0000" stop="20261106060000 +0000" channel="SigmaTV.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261106060000 +0000" stop="20261106090000 +0000" channel="SigmaTV.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261106090000 +0000" stop="20261106120000 +0000" channel="SigmaTV.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="SigmaTV.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261106130000 +0000" stop="20261106170000 +0000" channel="SigmaTV.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261106170000 +0000" stop="20261106190000 +0000" channel="SigmaTV.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="SigmaTV.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261106200000 +0000" stop="20261106230000 +0000" channel="SigmaTV.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261106230000 +0000" stop="20261107000000 +0000" channel="SigmaTV.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="RIKSat.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261107060000 +0000" stop="20261107090000 +0000" channel="RIKSat.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261107090000 +0000" stop="20261107120000 +0000" channel="RIKSat.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="RIKSat.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261107130000 +0000" stop="20261107170000 +0000" channel="RIKSat.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261107170000 +0000" stop="20261107190000 +0000" channel="RIKSat.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261107190000 +0000" stop="20261107200000 +0000" channel="RIKSat.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261107200000 +0000" stop="20261107230000 +0000" channel="RIKSat.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261107230000 +0000" stop="20261108000000 +0000" channel="RIKSat.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261107060000 +0000" stop="20261107090000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261107090000 +0000" stop="20261107120000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261107130000 +0000" stop="20261107170000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261107170000 +0000" stop="20261107190000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261107190000 +0000" stop="20261107200000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261107200000 +0000" stop="20261107230000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261107230000 +0000" stop="20261108000000 +0000" channel="ANT1Cyprus.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261107060000 +0000" stop="20261107090000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261107090000 +0000" stop="20261107120000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261107130000 +0000" stop="20261107170000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261107170000 +0000" stop="20261107190000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261107190000 +0000" stop="20261107200000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261107200000 +0000" stop="20261107230000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261107230000 +0000" stop="20261108000000 +0000" channel="ERTCosmosCyprus.cy@HD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261107060000 +0000" stop="20261107090000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261107090000 +0000" stop="20261107120000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261107130000 +0000" stop="20261107170000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261107170000 +0000" stop="20261107190000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261107190000 +0000" stop="20261107200000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261107200000 +0000" stop="20261107230000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261107230000 +0000" stop="20261108000000 +0000" channel="OmegaChannel.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+  <programme start="20261107000000 +0000" stop="20261107060000 +0000" channel="SigmaTV.cy@SD">
+    <title>Night Zone / Nattzon</title>
+    <desc>Music and late night broadcasts.</desc>
+  </programme>
+  <programme start="20261107060000 +0000" stop="20261107090000 +0000" channel="SigmaTV.cy@SD">
+    <title>Morning News / Morgonnyheter</title>
+    <desc>Start your day with the latest local and international news.</desc>
+  </programme>
+  <programme start="20261107090000 +0000" stop="20261107120000 +0000" channel="SigmaTV.cy@SD">
+    <title>Daily Talk Show / Pratshow</title>
+    <desc>Discussions, lifestyle topics, and guests.</desc>
+  </programme>
+  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="SigmaTV.cy@SD">
+    <title>Midday News / Mitt på dagen nyheter</title>
+    <desc>Midday news update.</desc>
+  </programme>
+  <programme start="20261107130000 +0000" stop="20261107170000 +0000" channel="SigmaTV.cy@SD">
+    <title>Afternoon Movie & Entertainment</title>
+    <desc>Films and entertainment shows for the afternoon.</desc>
+  </programme>
+  <programme start="20261107170000 +0000" stop="20261107190000 +0000" channel="SigmaTV.cy@SD">
+    <title>Evening Magazine / Kvällsmagasin</title>
+    <desc>Current affairs and cultural programs.</desc>
+  </programme>
+  <programme start="20261107190000 +0000" stop="20261107200000 +0000" channel="SigmaTV.cy@SD">
+    <title>Main News / Huvudnyheter</title>
+    <desc>The primary evening news broadcast.</desc>
+  </programme>
+  <programme start="20261107200000 +0000" stop="20261107230000 +0000" channel="SigmaTV.cy@SD">
+    <title>Prime Time Show / Primetime</title>
+    <desc>Top rated series, movies or reality shows.</desc>
+  </programme>
+  <programme start="20261107230000 +0000" stop="20261108000000 +0000" channel="SigmaTV.cy@SD">
+    <title>Late Night News & Review</title>
+    <desc>Summary of the day's events.</desc>
+  </programme>
+</tv>
