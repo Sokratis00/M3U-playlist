@@ -3,7 +3,7 @@
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="General",ANT1 Cyprus (1080p)
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ERTCosmosCyprus.cy@HD" tvg-logo="https://www.ert.gr/wp-content/uploads/2026/05/ert-cosmos-cyprus.svg" group-title="General",ERT Cosmos Cyprus (1080p)
+#EXTINF:-1 tvg-id="ERTCosmosCyprus.cy@HD" tvg-logo="https://github.com/Sokratis00/COPTIC-M3U-playlist/blob/COPTIC/ert-cosmos-cyprus%20(1).jpg?raw=true" group-title="General",ERT Cosmos Cyprus (1080p)
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
 #EXTINF:-1 tvg-id="OmegaChannel.cy@SD" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png" group-title="General",Omega Channel (576i)
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
