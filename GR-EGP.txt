@@ -1,0 +1,146 @@
+#EXTM3U x-tvg-url="https://githubusercontent.com"
+
+#EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" tvg-logo="https://imgur.com" group-title="Religious",4E
+http://tv4e.gr
+
+#EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" tvg-logo="https://imgur.com" group-title="Religious",4E (1080p)
+http://tv4e.gr
+
+#EXTINF:-1 tvg-id="AcheloosTV.gr" tvg-name="Acheloos TV" tvg-logo="https://imgur.com" group-title="General",Acheloos TV (576p)
+https://streamings.gr
+
+#EXTINF:-1 tvg-id="Action24.gr" tvg-name="Action 24" tvg-logo="https://wikimedia.org" group-title="Movies",Action 24 (1080p)
+http://siliconweb.com
+
+#EXTINF:-1 tvg-id="AeolosTV.gr" tvg-name="Aeolos TV" tvg-logo="https://imgur.com" group-title="General",Aeolos TV (1080p)
+https://istoikona.com
+
+#EXTINF:-1 tvg-id="AigaioTV.gr" tvg-name="Aigaio TV" tvg-logo="https://imgur.com" group-title="General",Aigaio TV (720p)
+https://crystalweb.net
+
+#EXTINF:-1 tvg-id="AlertTV.gr" tvg-name="Alert" tvg-logo="https://imgur.com" group-title="News",Alert (576p)
+https://streams.ovh
+
+#EXTINF:-1 tvg-id="AlphaTV.gr" tvg-name="Alpha TV" tvg-logo="https://imgur.com" group-title="General",Alpha TV (1080p)
+https://siliconweb.com
+
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1" tvg-logo="https://imgur.com" group-title="Entertainment" user-agent="Chrome" referrer="http://antennaplus.gr",ANT1 (1080p)
+#EXTVLCOPT:http-user-agent=Chrome
+#EXTVLCOPT:http-referrer=http://antennaplus.gr
+https://antennaplus.gr
+
+#EXTINF:-1 tvg-id="ART.gr" tvg-name="ART" tvg-logo="https://imgur.com" group-title="Culture",ART (1080p)
+https://rumble.com
+
+#EXTINF:-1 tvg-id="ARTTV.gr" tvg-name="ART TV" tvg-logo="https://imgur.com" group-title="General",ART TV
+https://rtmp.win
+
+#EXTINF:-1 tvg-id="AstraTV.gr" tvg-name="Astra TV" tvg-logo="https://imgur.com" group-title="News",Astra TV (1080p)
+https://gointernet.gr
+
+#EXTINF:-1 tvg-id="BarazaTV.gr" tvg-name="Baraza TV" tvg-logo="https://imgur.com" group-title="Music",Baraza TV (1080p)
+https://streams.ovh
+
+#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr" tvg-name="Baraza TV Deep House" tvg-logo="https://imgur.com" group-title="Music",Baraza TV Deep House (720p)
+https://streams.ovh
+
+#EXTINF:-1 tvg-id="BarazaTVRelaxing.gr" tvg-name="Baraza TV Relaxing" tvg-logo="https://imgur.com" group-title="Music",Baraza TV Relaxing (720p)
+https://streams.ovh
+
+#EXTINF:-1 tvg-id="BestTV.gr" tvg-name="Best TV" tvg-logo="https://imgur.com" group-title="",Best TV (720p)
+http://siliconweb.com
+
+#EXTINF:-1 tvg-id="BlueSkyTV.gr" tvg-name="Blue Sky TV" tvg-logo="https://imgur.com" group-title="General",Blue Sky TV (720p)
+https://smart-tv-data.com
+
+#EXTINF:-1 tvg-id="CenterTV.gr" tvg-name="Center TV" tvg-logo="https://imgur.com" group-title="General",Center TV (1080p)
+https://streams.gr
+
+#EXTINF:-1 tvg-id="Channel8.gr" tvg-name="Channel 8" tvg-logo="https://channel8.gr" group-title="",Channel 8 (1080p)
+https://crystalweb.net
+
+#EXTINF:-1 tvg-id="CorfuChannel.gr" tvg-name="Corfu Channel" tvg-logo="https://imgur.com" group-title="News",Corfu Channel (720p)
+https://streams.ovh
+
+#EXTINF:-1 tvg-id="TVCreta.gr" tvg-name="Creta" tvg-logo="https://imgur.com" group-title="",Creta (540p)
+http://streams.ovh
+
+#EXTINF:-1 tvg-id="DELTATV.gr" tvg-name="DELTA TV" tvg-logo="https://ibb.co" group-title="General",DELTA TV (720p)
+http://81.171.10
+
+#EXTINF:-1 tvg-id="DionTV.gr" tvg-name="Dion TV" tvg-logo="https://imgur.com" group-title="General",Dion TV (1080p)
+https://rtmp.win
+
+#EXTINF:-1 tvg-id="EcclesiaTV.gr" tvg-name="Ecclesia TV" tvg-logo="https://imgur.com" group-title="",Ecclesia TV (1080p)
+https://siliconweb.com
+
+#EXTINF:-1 tvg-id="EgnatiaTV.gr" tvg-name="Egnatia TV" tvg-logo="https://imgur.com" group-title="News",Egnatia TV (576p)
+https://streams.ovh
+
+#EXTINF:-1 tvg-id="EllinikosFM.gr" tvg-name="Ellinikos FM" tvg-logo="https://ibb.co" group-title="Music",Ellinikos FM (720p)
+https://rtmp.win
+
+#EXTINF:-1 tvg-id="ENAChannel.gr" tvg-name="ENA Channel" tvg-logo="https://imgur.com" group-title="General",ENA Channel (1080p)
+https://smart-tv-data.com
+
+#EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-name="Epiloges TV" tvg-logo="https://imgur.com" group-title="General",Epiloges TV
+https://crystalweb.net
+
+#EXTINF:-1 tvg-id="EpirusTV1.gr" tvg-name="Epirus TV1" tvg-logo="https://imgur.com" group-title="General",Epirus TV1 (720p)
+https://rtmp.win
+
+#EXTINF:-1 tvg-id="ERT3.gr" tvg-name="ERT3" tvg-logo="https://imgur.com" group-title="Entertainment",ERT3 (1080p)
+https://broadpeak-aas.com
+
+#EXTINF:-1 tvg-id="ERTCosmos.gr" tvg-name="ERT Cosmos" tvg-logo="https://wikimedia.org" group-title="General",ERT Cosmos (1080p)
+https://broadpeak-aas.com
+
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-name="ERT News HD" tvg-logo="https://imgur.com" group-title="News",ERT News HD (1080p)
+https://broadpeak-aas.com
+
+#EXTINF:-1 tvg-id="ERTSports1.gr" tvg-name="ERT Sports 1" tvg-logo="https://imgur.com" group-title="Sports",ERT Sports 1 (1080p)
+http://ert.gr
+
+#EXTINF:-1 tvg-id="ERTSports2.gr" tvg-name="ERT Sports 2" tvg-logo="https://imgur.com" group-title="Sports",ERT Sports 2 (1080p)
+http://ert.gr
+
+#EXTINF:-1 tvg-id="EuroTV.gr" tvg-name="Euro TV" tvg-logo="https://eurotv.gr" group-title="News",Euro TV (432p)
+https://bozztv.com
+
+#EXTINF:-1 tvg-id="ExtraProNews.gr" tvg-name="Extra ProNews" tvg-logo="https://extra3.tv" group-title="Entertainment;News;Shop",Extra ProNews (576p)
+http://62.1.176
+
+#EXTINF:-1 tvg-id="FarosTV2.gr" tvg-name="Faros TV2" tvg-logo="https://imgur.com" group-title="",Faros TV2 (480p)
+https://cystream.net
+
+#EXTINF:-1 tvg-id="GnomiTV.gr" tvg-name="Gnomi TV" tvg-logo="https://ibb.co" group-title="General",Gnomi TV (1080p)
+https://streams.ovh
+
+#EXTINF:-1 tvg-id="GroovyTV.gr" tvg-name="Groovy TV" tvg-logo="https://imgur.com" group-title="Movies",Groovy TV (360p)
+http://onair-radio.eu
+
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-name="Hellenic Parliament TV" tvg-logo="https://imgur.com" group-title="Legislative",Hellenic Parliament TV (1080p)
+https://broadpeak-aas.com
+
+#EXTINF:-1 tvg-id="HighTV.gr" tvg-name="High TV" tvg-logo="https://imgur.com" group-title="Shop",High TV (720p)
+http://streams.ovh
+
+#EXTINF:-1 tvg-id="IonianTV.gr" tvg-name="Ionian Channel" tvg-logo="https://imgur.com" group-title="General",Ionian Channel (720p)
+https://ioniantv.gr
+
+#EXTINF:-1 tvg-id="IonianTV.gr" tvg-name="Ionian Channel" tvg-logo="https://imgur.com" group-title="General",Ionian Channel (1080p)
+http://ioniantv.gr
+
+#EXTINF:-1 tvg-id="KontraChannel.gr" tvg-name="Kontra Channel" tvg-logo="https://kontrachannel.gr" group-title="General",Kontra Channel (1080p)
+https://siliconweb.com
+
+#EXTINF:-1 tvg-id="KosTV.gr" tvg-name="Kos TV" tvg-logo="https://imgur.com" group-title="General",Kos TV (720p)
+https://streams.gr
+
+#EXTINF:-1 tvg-id="KritiTV.gr" tvg-name="Kriti TV" tvg-logo="https://imgur.com" group-title="General",Kriti TV (1080p)
+https://siliconweb.com
+
+#EXTINF:-1 tvg-id="LepantoTV.gr" tvg-name="Lepanto TV" tvg-logo="https://streema.com" group-title="General",Lepanto TV
+https://crystalweb.net
+
+#EXTINF:-1 tvg-id="MesogeiosTV.gr" tvg-name="Mesogeios TV" tvg-logo="https://imgur.com" group-title="General",Mesogeios TV (720p)
